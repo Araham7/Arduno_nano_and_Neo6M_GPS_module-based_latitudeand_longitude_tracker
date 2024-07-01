@@ -1,9 +1,7 @@
 # **Arduno_nano_and_Neo6M_GPS_module-based_latitudeand_longitude_tracker**
 
 ### Wiring of NEO6M gps-Module to arduino-nao(Gps lat-long tracker):
-![Wiring of Gps lat-long tracker](https://i.stack.imgur.com/DJxsi.jpg)
-
-<img src="./photo.png" alt="wiring" />
+<img src="./Arduino_nano_gps_wiring.png" alt="Arduino_nano_gps_wiring" />
 
 
 # Source Code :
